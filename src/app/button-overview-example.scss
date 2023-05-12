@@ -1,0 +1,90 @@
+@import '../variables.scss';
+.flexbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 5px;
+}
+.block {
+  width: 100px;
+  height: 100px;
+  background-color: $primary;
+  display: inline-block;
+}
+
+.block2 {
+  width: 100px;
+  height: 100px;
+  background-color: $primary-lighter;
+  display: inline-block;
+}
+
+.block3 {
+  width: 100px;
+  height: 100px;
+  background-color: $primary-darker;
+  display: inline-block;
+}
+//
+.block4 {
+  width: 100px;
+  height: 100px;
+  background-color: $accent;
+  display: inline-block;
+}
+
+.block5 {
+  width: 100px;
+  height: 100px;
+  background-color: $accent-lighter;
+  display: inline-block;
+}
+
+.block6 {
+  width: 100px;
+  height: 100px;
+  background-color: $accent-darker;
+  display: inline-block;
+}
+//
+.block7 {
+  width: 100px;
+  height: 100px;
+  background-color: $warn;
+  display: inline-block;
+}
+
+.block8 {
+  width: 100px;
+  height: 100px;
+  background-color: $warn-lighter;
+  display: inline-block;
+}
+
+.block9 {
+  width: 100px;
+  height: 100px;
+  background-color: $warn-darker;
+  display: inline-block;
+}
+//
+.block10 {
+  width: 100px;
+  height: 100px;
+  background-color: $my;
+  display: inline-block;
+}
+
+.block11 {
+  width: 100px;
+  height: 100px;
+  background-color: $my-lighter;
+  display: inline-block;
+}
+
+.block12 {
+  width: 100px;
+  height: 100px;
+  background-color: $my-darker;
+  display: inline-block;
+}

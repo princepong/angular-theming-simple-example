@@ -1,0 +1,17 @@
+@import './theme.scss';
+
+$primary: mat-color($custom-primary);
+$primary-lighter: mat-color($custom-primary, lighter);
+$primary-darker: mat-color($custom-primary, darker);
+
+$accent: mat-color($custom-accent);
+$accent-lighter: mat-color($custom-accent, lighter);
+$accent-darker: mat-color($custom-accent, darker);
+
+$warn: mat-color($custom-warn);
+$warn-lighter: mat-color($custom-warn, lighter);
+$warn-darker: mat-color($custom-warn, darker);
+
+$my: mat-color($custom-my-primary);
+$my-lighter: mat-color($custom-my-primary, lighter);
+$my-darker: mat-color($custom-my-primary, darker);
